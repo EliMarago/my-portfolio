@@ -897,7 +897,6 @@ span {
 .contact form .input-box {
   position: relative;
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
 }
 
