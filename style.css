@@ -1412,5 +1412,8 @@ span {
     height: 123%;
     right: 90px;
   }
+  .btn-box .btn{
+    margin-top: -3%;
+  }
 }
 
