@@ -1403,12 +1403,12 @@ span {
     width: 55%;/* I bottoni occupano tutta la larghezza disponibile */
     font-size: 1.4rem; /* Riduci leggermente la dimensione del font */
     padding: 25px 25px; /* Riduci il padding */
-     margin-top: -4%;
+     margin-top: -3%;
   }
   .home-imghover img{
-    width: 100%;
+    width: 96%;
   margin-top: 45%;
-   margin-left: -10rem;
+    margin-left: -3rem;
   }
 }
 @media (max-width: 25em){
