@@ -1406,4 +1406,11 @@ span {
     margin-top: -13%;
   }
 }
+@media (max-width: 25em){
+  .home-imghover{
+    width: 56%;
+    height: 123%;
+    right: 90px;
+  }
+}
 
