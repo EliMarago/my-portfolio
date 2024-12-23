@@ -1400,10 +1400,15 @@ span {
   }
 
   .btn-box .btn {
-    width: 40%; /* I bottoni occupano tutta la larghezza disponibile */
+    width: 55%;/* I bottoni occupano tutta la larghezza disponibile */
     font-size: 1.4rem; /* Riduci leggermente la dimensione del font */
     padding: 25px 25px; /* Riduci il padding */
-    margin-top: -13%;
+     margin-top: -4%;
+  }
+  .home-imghover img{
+    width: 100%;
+  margin-top: 45%;
+   margin-left: -10rem;
   }
 }
 @media (max-width: 25em){
