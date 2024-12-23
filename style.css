@@ -1420,5 +1420,10 @@ span {
   .btn-box .btn{
     margin-top: -3%;
   }
+  .home-content
+      {
+        margin-top: 7rem;
+      }
+
 }
 
